@@ -1,0 +1,21 @@
+/* Add any css you want to use for you website here */
+
+body {
+    background-image: url(https://s3.amazonaws.com/nikeinc/assets/41198/Folsom_Sunset_Shot_rectangle_1600.jpg?1430348684);
+    background-repeat: no-repeat;
+}
+
+table, th, td{
+    text-align: left;
+}
+
+th{
+    background-color: gold;
+    color: white
+}
+
+.col-4{
+    background-color: gold;
+    padding: 10px;
+}
+
